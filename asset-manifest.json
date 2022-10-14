@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor-Challange19/static/css/main.f393a991.css",
+    "main.js": "/FrontEndMentor-Challange19/static/js/main.a5dcbb43.js",
+    "static/js/787.a97cb00a.chunk.js": "/FrontEndMentor-Challange19/static/js/787.a97cb00a.chunk.js",
+    "static/media/bg-main-desktop.png": "/FrontEndMentor-Challange19/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/bg-card-back.png": "/FrontEndMentor-Challange19/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/FrontEndMentor-Challange19/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "static/media/bg-main-mobile.png": "/FrontEndMentor-Challange19/static/media/bg-main-mobile.caa4689407777a312ede.png",
+    "index.html": "/FrontEndMentor-Challange19/index.html",
+    "static/media/icon-complete.svg": "/FrontEndMentor-Challange19/static/media/icon-complete.8fd757c0c5c44b1d597ca411400e046d.svg",
+    "static/media/card-logo.svg": "/FrontEndMentor-Challange19/static/media/card-logo.8ca9036515954c3f8191559dce9c7bdf.svg",
+    "main.f393a991.css.map": "/FrontEndMentor-Challange19/static/css/main.f393a991.css.map",
+    "main.a5dcbb43.js.map": "/FrontEndMentor-Challange19/static/js/main.a5dcbb43.js.map",
+    "787.a97cb00a.chunk.js.map": "/FrontEndMentor-Challange19/static/js/787.a97cb00a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f393a991.css",
+    "static/js/main.a5dcbb43.js"
+  ]
+}
